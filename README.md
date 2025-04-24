@@ -1,3 +1,4 @@
 # Demo 
 
-Allah is the creator of everything.
+Allah is the creator of everything!
+
